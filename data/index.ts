@@ -199,16 +199,16 @@ export const socialMedia: SocialMediaType[] = [
   {
     id: 1,
     img: "/git.svg",
-    url: "https://github.com/12Mahak",
+    url: "https://github.com/mahakpandey",
   },
   {
     id: 2,
     img: "/twit.svg",
-    url: "https://x.com/dozing_dev",
+    url: "https://x.com/mahakparashar",
   },
   {
     id: 3,
     img: "/link.svg",
-    url: "https://www.linkedin.com/in/Mahak-pidiha-1774021b6/",
+    url: "https://www.linkedin.com/in/mahak-pandey-329b64213/",
   },
 ];
