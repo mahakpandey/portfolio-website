@@ -125,25 +125,25 @@ export const projects: ProjectType[] = [
 export const testimonials: TestimonialType[] = [
   {
     quote:
-      "I've worked closely with Mahak for a very long time and know him well. She has a strong curiosity about technologies and excels at diving deep into concepts. She can break down problems into manageable pieces and write code accordingly. His debugging and feature-building skills are exceptional. Beyond his technical abilities, his communication skills are commendable, making him a complete package.",
+      "I've worked closely with Mahak for a very long time and know her well. She has a strong curiosity about technologies and excels at diving deep into concepts. She can break down problems into manageable pieces and write code accordingly. His debugging and feature-building skills are exceptional. Beyond her technical abilities, her communication skills are commendable, making her a complete package.",
     name: "Aryan Pidiha",
     title: "Front-end Web Developer",
   },
   {
     quote:
-      "I've worked with Mahak in one of my recent projects talking about his skills she has got a good grip over frontend technologies like react redux typescript. She can understand the business perspective and think of a solution considering business perspective",
+      "I've worked with Mahak in one of my recent projects talking about her skills she has got a good grip over frontend technologies like react redux typescript. She can understand the business perspective and think of a solution considering business perspective",
     name: "Sachin Patel",
     title: "Sr. Fullstack developer",
   },
   {
     quote:
-      "Mahak mam is really dedicated to his team. When there's a tough problem, She takes charge and works hard to solve it. She spends time finding solutions, making sure the project goes well. Personally, when I have problems, she helps me out a lot.",
+      "Mahak mam is really dedicated to her team. When there's a tough problem, She takes charge and works hard to solve it. She spends time finding solutions, making sure the project goes well. Personally, when I have problems, she helps me out a lot.",
     name: "Krishna Rathod",
     title: "Front end Developer",
   },
   {
     quote:
-      "Mahak mam's positive attitude and willingness to collaborate make him a pleasure to work with. She approaches challenges with a can-do attitude and is always ready to lend a helping hand to his teammates.",
+      "Mahak mam's positive attitude and willingness to collaborate make her a pleasure to work with. She approaches challenges with a can-do attitude and is always ready to lend a helping hand to her teammates.",
     name: "Aditya Pandey",
     title: "Backend developer ",
   },
