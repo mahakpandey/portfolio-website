@@ -55,20 +55,20 @@ export const gridItemsData: GridItemType[] = [
     imgClassName: "",
     titleClassName: "justify-start",
     img: "/grid.svg",
-    spareImg: "/b4.svg",
-  },
-  {
-    id: 5,
-    title: "Currently building a custom pptx web-view",
-    description: "The Inside Scoop",
-    className: "md:col-span-3 md:row-span-2",
-    imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
-    titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
     spareImg: "/grid.svg",
   },
+  // {
+  //   id: 5,
+  //   title: "Currently building a custom pptx web-view",
+  //   description: "The Inside Scoop",
+  //   className: "md:col-span-3 md:row-span-2",
+  //   imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
+  //   titleClassName: "justify-center md:justify-start lg:justify-center",
+  //   img: "/b5.svg",
+  //   spareImg: "/grid.svg",
+  // },
   {
-    id: 6,
+    id: 5,
     title: "Do you want to start a project together?",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
@@ -167,32 +167,32 @@ export const companies: CompanyType[] = [
 export const workExperience: WorkExperienceType[] = [
   {
     id: 1,
-    title: "Software developer intern - Hexaware Technologies",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
-  },
-  {
-    id: 2,
     title: "Freelance Web Dev",
     desc: "Developed a real-time Admin dashboard using React JS and Redux, displaying critical system metrics and charts using recharts.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
-    id: 3,
+    id: 2,
     title: "MTS - STV pvt. ltd.",
     desc: "Designed and developed web app with cross browser compatibility and responsiveness.",
+    className: "md:col-span-2",
+    thumbnail: "/exp4.svg",
+  },
+  {
+    id: 3,
+    title: "Frontend web Developer - STV pvt. ltd.",
+    desc: "Developed and maintained user-facing features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp2.svg",
   },
   {
     id: 4,
-    title: "Frontend web Developer - STV pvt. ltd.",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Frontend Engineer ll - ConnectWise LLP",
+    desc: "Contributing to the core development of the ASIO product, focusing on major components and performance optimization.",
     className: "md:col-span-2",
-    thumbnail: "/exp4.svg",
-  },
+    thumbnail: "/exp1.svg",
+  }
 ];
 
 export const socialMedia: SocialMediaType[] = [
@@ -212,3 +212,4 @@ export const socialMedia: SocialMediaType[] = [
     url: "https://www.linkedin.com/in/mahak-pandey-329b64213/",
   },
 ];
+
