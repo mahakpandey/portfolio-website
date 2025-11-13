@@ -90,11 +90,11 @@ export const techStackThree: Array<string> = ["Html", "CSS", "SASS"];
 export const projects: ProjectType[] = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-    img: "/p1.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-    link: "https://github.com/12Mahak?tab=repositories",
+    title: "AI Resume Analyzer",
+    des: "Let AI turn your experience into a clean professional, ATS-friendly resume in minutes.",
+    img: "/resumetric.jpg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+    link: "https://github.com/mahakpandey/Resumetric",
   },
   {
     id: 2,
@@ -109,7 +109,7 @@ export const projects: ProjectType[] = [
     title: "AI Image SaaS - Canva Application",
     des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
     img: "/p3.svg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg",, "/c.svg"],
     link: "https://github.com/12Mahak/ai_saas_app",
   },
   {
@@ -212,6 +212,7 @@ export const socialMedia: SocialMediaType[] = [
     url: "https://www.linkedin.com/in/mahak-pandey-329b64213/",
   },
 ];
+
 
 
 
