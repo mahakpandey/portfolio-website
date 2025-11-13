@@ -143,9 +143,9 @@ export const testimonials: TestimonialType[] = [
   },
   {
     quote:
-      "Mahak mam's positive attitude and willingness to collaborate make her a pleasure to work with. She approaches challenges with a can-do attitude and is always ready to lend a helping hand to her teammates.",
-    name: "Aditya Pandey",
-    title: "Backend developer ",
+      "Mahak is a quick learner and has exceptional skills in React and attention to detail. Always eager to take on new challanges and contribute innovative ideas.",
+    name: "Chetan Baghel",
+    title: "Sr. Software Engineer",
   },
 ];
 
@@ -212,4 +212,5 @@ export const socialMedia: SocialMediaType[] = [
     url: "https://www.linkedin.com/in/mahak-pandey-329b64213/",
   },
 ];
+
 
